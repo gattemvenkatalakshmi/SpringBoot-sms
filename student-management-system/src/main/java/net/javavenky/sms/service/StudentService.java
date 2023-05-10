@@ -1,8 +1,8 @@
-package net.javaguides.sms.service;
+package net.javavenky.sms.service;
 
 import java.util.List;
 
-import net.javaguides.sms.entity.Student;
+import net.javavenky.sms.entity.Student;
 
 public interface StudentService {
 	List<Student> getAllStudents();

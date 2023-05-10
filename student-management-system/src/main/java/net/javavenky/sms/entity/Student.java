@@ -1,4 +1,4 @@
-package net.javaguides.sms.entity;
+package net.javavenky.sms.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

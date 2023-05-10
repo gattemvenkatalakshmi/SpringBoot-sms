@@ -1,4 +1,4 @@
-package net.javaguides.sms.controller;
+package net.javavenky.sms.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import net.javaguides.sms.entity.Student;
-import net.javaguides.sms.service.StudentService;
+import net.javavenky.sms.entity.Student;
+import net.javavenky.sms.service.StudentService;
 
 @Controller
 public class StudentController {
